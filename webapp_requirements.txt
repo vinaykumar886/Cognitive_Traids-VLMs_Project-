@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+faiss-cpu
+Pillow
+torchvision
