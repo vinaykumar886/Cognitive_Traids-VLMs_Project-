@@ -6,3 +6,9 @@ torch==2.2.2
 torchvision==0.17.2
 gradio==4.26.0
 tqdm==4.66.2
+streamlit==1.33.0
+transformers==4.40.1
+torch==2.2.2
+torchvision==0.17.2
+Pillow==10.3.0
+faiss-cpu==1.7.4
